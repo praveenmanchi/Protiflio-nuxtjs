@@ -3,12 +3,12 @@
     <clubModal v-if="showClubModal" @close="showClubModal = false"></clubModal>
     <div class="container">
       <div class="club">
-        <!-- <p class="clubTitle heading-2 text-primary-dark">Join the club, <span class="line-breaker"><br /></span>get (ir)regular updates</p>
-        <p class="clubDesc body text-quaternary-dark">From now on, I will try to work with the garage door up and we will see where it <span class="line-breaker"><br /></span>brings us. New posts & updates on this space + maybe some surprises...</p> -->
+        <p class="clubTitle heading-2 text-primary-dark">Join the club, <span class="line-breaker"><br /></span>get (ir)regular updates</p>
+        <p class="clubDesc body text-quaternary-dark">From now on, I will try to work with the garage door up and we will see where it <span class="line-breaker"><br /></span>brings us. New posts & updates on this space + maybe some surprises...</p>
 
         <ValidationObserver v-slot="{ invalid }" ref="form">
 
-          <!-- <form name="thunderstorm-newsletter" method="post" data-netlify="true" @submit.prevent="onSubmit" data-netlify-honeypot="anti-robots">
+          <form name="thunderstorm-newsletter" method="post" data-netlify="true" @submit.prevent="onSubmit" data-netlify-honeypot="anti-robots">
 
             <input type="hidden" name="form-name" value="thunderstorm-newsletterr">
 
@@ -31,7 +31,7 @@
             <button type="submit" :disabled="invalid">
               Join the club<svg class="icon" aria-hidden="true" focusable="false"><use xlink:href="@/static/icons/sprite.svg#add-circle-20"></use></svg>
             </button>
-          </form> -->
+          </form>
 
         </ValidationObserver>
 

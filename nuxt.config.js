@@ -10,9 +10,8 @@ const client = contentful.createClient({
 })
 
 export default {
-    target: 'server',
-    ssr: true,
-
+  target: 'server',
+  ssr: true,
   /*
   ** Headers of the page
   */

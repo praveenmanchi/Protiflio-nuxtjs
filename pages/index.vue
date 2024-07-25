@@ -32,21 +32,21 @@
             </div>
             <div class="etiquette-property">
               <p class="name caption">Current position</p>
-              <p class="value heading-3 text-primary-light">Product Designer, Deloitte</p>
+              <p class="value heading-3 text-primary-light">Product Designer, Specify</p>
             </div>
-            <!-- <div class="etiquette-property">
+            <div class="etiquette-property">
               <p class="name caption">Focus</p>
               <p class="value heading-3 text-primary-light">Design Operations</p>
             </div>
             <div class="etiquette-property">
               <p class="name caption">Location</p>
               <p class="value heading-3 text-primary-light">Paris, France</p>
-            </div> -->
+            </div>
           </div>
-          <!-- <div class="logo"></div>
+          <div class="logo"></div>
           <p class="subtitle display-3 text-primary-light">danger</p>
           <p class="desc caption text-primary-light">May present some work under NDA. <br>Just kidding, relax. Open headspace.</p>
-          <p class="annotation secret text-primary-light">LF-11235813-21345892-150242392</p> -->
+          <p class="annotation secret text-primary-light">LF-11235813-21345892-150242392</p>
         </div>
       </div>
       <div class="etiquette-electricity">
@@ -60,7 +60,6 @@
         <div class="etiquette-electricityDiagram right"></div>
       </div>
     </section>
-    
 
     <section class="intro">
       <div class="container">
@@ -78,8 +77,13 @@
             <a href="https://www.instagram.com/ynngllt/" title="" target="_blank"  rel="noopener"><span class="intro-linkPrefix">Journey on </span>Instagram<svg class="icon" aria-hidden="true" focusable="false"><use xlink:href="@/static/icons/sprite.svg#external-link-20"></use></svg></a>
           </li>
         </ul> -->
+        
       </div>
+      
     </section>
+    
+
+    
 
     <!-- <section class="portfolio-request">
       <div class="container">
@@ -94,6 +98,8 @@
         <ProjectsCarousel />
       </div>
     </section>
+
+    
 
     <section class="manifesto">
       <div class="container">
@@ -142,11 +148,11 @@
       </div>
     </section>
 
-    <!-- <section class="human">
+    <section class="human">
       <div class="container">
         <div class="human-intro">
           <h2 class="human-intro-title heading-1 text-primary-dark">Words are cool and everything but what about taking a deep dive into my universe?</h2>
-          <h2 class="human-intro-title heading-1 text-primary-dark">What about the human behind all of this?</h2>
+          <!-- <h2 class="human-intro-title heading-1 text-primary-dark">What about the human behind all of this?</h2> -->
           <SuperButton class="human-intro-link" href="/about" variant="tertiary thunderstorm" icon="#arrow-forward-20">Read more about me</SuperButton>
           <div class="human-intro-logo"></div>
         </div>
@@ -154,7 +160,7 @@
           <Fact v-for="fact in facts" :key="fact.id" variant="dark" :sub="fact.sub" :title="fact.title" :desc="fact.desc"></Fact>
         </div>
       </div>
-    </section> -->
+    </section>
   </div>
 </template>
 
