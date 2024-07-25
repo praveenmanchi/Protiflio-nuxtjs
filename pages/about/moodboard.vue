@@ -54,17 +54,17 @@
 
     head() {
       return {
-        title: 'Yann-Edern Gillet — Moodboard',
+        title: 'Praveen Manchi — Moodboard',
         meta: [
           {
             hid: 'og:title',
             name: 'og:title',
-            content: 'Yann-Edern Gillet — Moodboard',
+            content: 'Praveen Manchi — Moodboard',
           },
           {
             hid: 'twitter:title',
             name: 'twitter:title',
-            content: 'Yann-Edern Gillet — Moodboard',
+            content: 'Praveen Manchi — Moodboard',
           },
           {
             hid: 'og:image',

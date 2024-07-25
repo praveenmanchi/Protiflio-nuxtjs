@@ -20,7 +20,7 @@ export default {
     htmlAttrs: {
       lang: 'en'
     },
-    title: 'Yann-Edern Gillet, Product Designer',
+    title: 'Praveen Manchi, Product Designer',
     link: [
       {
         rel: 'shortcut icon',
@@ -40,15 +40,15 @@ export default {
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       {
         name: 'description',
-        content: 'Personal space of Yann-Edern Gillet, a designer thinking, creating and breaking interfaces, products and systems with a focus on design operations'
+        content: 'Personal space of Praveen Manchi, a designer thinking, creating and breaking interfaces, products and systems with a focus on design operations'
       },
       {
         name:  'og:description',
-        content:  'Personal space of Yann-Edern Gillet, a designer thinking, creating and breaking interfaces, products and systems with a focus on design operations',
+        content:  'Personal space of Praveen Manchi, a designer thinking, creating and breaking interfaces, products and systems with a focus on design operations',
       },
       {
         name:  'twitter:description',
-        content:  'Personal space of Yann-Edern Gillet, a designer thinking, creating and breaking interfaces, products and systems with a focus on design operations',
+        content:  'Personal space of Praveen Manchi, a designer thinking, creating and breaking interfaces, products and systems with a focus on design operations',
       },
       {
         name:  'twitter:site',

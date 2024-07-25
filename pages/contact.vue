@@ -73,17 +73,17 @@
 
     head() {
       return {
-        title: 'Yann-Edern Gillet — Contact',
+        title: 'Praveen Manchi — Contact',
         meta: [
           {
             hid: 'og:title',
             name: 'og:title',
-            content: 'Yann-Edern Gillet — Contact',
+            content: 'Praveen Manchi — Contact',
           },
           {
             hid: 'twitter:title',
             name: 'twitter:title',
-            content: 'Yann-Edern Gillet — Contact',
+            content: 'Praveen Manchi — Contact',
           },
           {
             hid: 'og:image',

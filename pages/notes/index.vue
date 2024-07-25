@@ -28,17 +28,17 @@
     
     head() {
       return {
-        title: 'Yann-Edern Gillet — Notes',
+        title: 'Praveen Manchi — Notes',
         meta: [
           {
             hid: 'og:title',
             name: 'og:title',
-            content: 'Yann-Edern Gillet — Notes',
+            content: 'Praveen Manchi — Notes',
           },
           {
             hid: 'twitter:title',
             name: 'twitter:title',
-            content: 'Yann-Edern Gillet — Notes',
+            content: 'Praveen Manchi — Notes',
           },
           {
             hid: 'og:image',

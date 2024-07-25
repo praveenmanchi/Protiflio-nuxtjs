@@ -206,17 +206,17 @@
 
     head() {
       return {
-        title: 'Yann-Edern Gillet',
+        title: 'Praveen Manchi',
         meta: [
           {
             hid: 'og:title',
             name: 'og:title',
-            content: 'Yann-Edern Gillet',
+            content: 'Praveen Manchi',
           },
           {
             hid: 'twitter:title',
             name: 'twitter:title',
-            content: 'Yann-Edern Gillet',
+            content: 'Praveen Manchi',
           },
           {
             hid: 'og:image',

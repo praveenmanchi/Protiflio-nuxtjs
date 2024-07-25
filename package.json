@@ -2,7 +2,7 @@
   "name": "yannglt.com",
   "version": "1.0.0",
   "description": "My riveting Nuxt.js project",
-  "author": "Yann-Edern Gillet",
+  "author": "Praveen Manchi",
   "private": true,
   "scripts": {
     "dev": "nuxt",
